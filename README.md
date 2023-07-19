@@ -1,5 +1,7 @@
 # spotbugs-findsecbugs-action
 
+🚨 This repo has moved to [advanced-security/spotbugs-findsecbugs-action](https://github.com/advanced-security/spotbugs-findsecbugs-action/) 🚨
+
 > ℹ️ This is an _unofficial_ tool created by Field Security Services, and is not officially supported by GitHub.
 
 This Action run SpotBugs with FindSecBugs, and uploads the results to GitHub Code Scanning.
